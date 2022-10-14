@@ -1,5 +1,16 @@
 # Change Log
 
+## [0.0.4] 2022-10-14
+### Improvements
+
+- Added configuration:
+  - Update routes in `core/urls.py`
+  - Update `core/settings.py`
+    - import `os` package, used in BASE_DIR definition
+    - Update `INSTALLED_APPS`
+    - Include the new templates, `TEMPLATES` section
+    - Added `Django & Celery` (end of the file)
+
 ## [0.0.3] 2022-10-14
 ### Improvements
 
