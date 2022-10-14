@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.0] 2022-10-14
+### Stable USE
+
+- Complete the set up 
+- Start and use the app 
+
 ## [0.0.4] 2022-10-14
 ### Improvements
 
