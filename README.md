@@ -18,7 +18,7 @@ This repository provides a `step-by-step` integration of [Django Tasks Manager](
 
 <br />
 
-## 👉 Project Creation - `v0.0.1` tag
+## 👉 Added minimal files - `v0.0.1` tag
 
 In this phase only the basic files are provided: 
 
@@ -36,7 +36,7 @@ $ pip install --upgrade pip  # update PIP
 
 <br />
 
-## 👉 Create the Django Project - `v0.0.2` tag
+## 👉 Generate Django Core - `v0.0.2` tag
 
 In this phase, the usual commands are used: 
 
@@ -64,7 +64,7 @@ https://github.com/app-generator/django-tasks-manager/tree/main/django_tm/celery
 
 <br />
 
-## 👉 Install Django TM Package - `v0.0.4` tag
+## 👉 Update Project Configuration - `v0.0.4` tag
 
 Update configuration and routing. Here are the impacted files:
 
