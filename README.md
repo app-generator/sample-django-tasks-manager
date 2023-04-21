@@ -59,8 +59,7 @@ $ mkdir celery_logs                 # here the logs are saved
 $ mkdir celery_scripts              # scripts to be executed 
 ```
 
-The sample scripts are provided by the package for a fast start: 
-https://github.com/app-generator/django-tasks-manager/tree/main/django_tm/celery_scripts
+The sample scripts are provided in the [Celery Scripts](https://github.com/app-generator/django-tasks-manager/tree/main/django_tm/celery_scripts) folder.
 
 <br />
 
